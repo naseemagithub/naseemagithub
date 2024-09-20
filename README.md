@@ -1,6 +1,6 @@
 # 💫 About Me:
-I'm currently a engineering student
-looking forward to learn new things
+.I'm currently a engineering student
+.looking forward to learn new things
 
 
 ## 🌐 Socials:
